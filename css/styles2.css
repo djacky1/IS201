@@ -1,0 +1,22 @@
+.font {
+    color: .bg-black;
+    font-family: sans-serif; Candara
+    font-size: 20px
+
+}
+
+.body{
+    background-color: #555555; 
+}
+
+.li {
+    color: #abcdef;
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.heading{
+    color: #FFFDD0;
+    
+    font-family: Helvetica;
+}
